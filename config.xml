@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="it.rinorusso.quovado" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="it.rinorusso.multiweb.ag" version="1.0.0">
   <name>Multiweb AG</name>
   <description>Multiweb AG</description>
   <author href="http://www.rinorusso.it" email="info@rinorusso.it">Rino Russo</author>
